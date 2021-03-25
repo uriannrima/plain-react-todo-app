@@ -21,8 +21,14 @@ This project is a WIP that was created just to explain how to create a simple To
 ## Installation Steps
 
 1. Clone the repository
-2. Change the working directory
-3. Install dependencies
+
+   `git clone https://github.com/uriannrima/plain-react-todo-app`
+
+3. Change the working directory
+
+   `cd plain-react-todo-app`
+
+4. Install dependencies
 
    `npm install`
 
