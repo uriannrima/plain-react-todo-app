@@ -1,0 +1,21 @@
+{
+  "name": "20210317",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
